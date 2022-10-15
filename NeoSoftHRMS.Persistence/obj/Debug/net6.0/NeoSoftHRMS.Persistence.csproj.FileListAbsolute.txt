@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\bin\Debug\net6.0\NeoSoftHRMS.Persistence.deps.json
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\bin\Debug\net6.0\NeoSoftHRMS.Persistence.runtimeconfig.json
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\bin\Debug\net6.0\NeoSoftHRMS.Persistence.dll
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\bin\Debug\net6.0\NeoSoftHRMS.Persistence.pdb
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.AssemblyInfo.cs
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.dll
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\refint\NeoSoftHRMS.Persistence.dll
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.pdb
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\NeoSoftHRMS.Persistence.genruntimeconfig.cache
+C:\Users\user\source\repos\NeoSoftHRMS\NeoSoftHRMS.Persistence\obj\Debug\net6.0\ref\NeoSoftHRMS.Persistence.dll
